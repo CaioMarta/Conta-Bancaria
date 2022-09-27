@@ -1,0 +1,11 @@
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.deps.json
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.runtimeconfig.json
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.runtimeconfig.dev.json
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.dll
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.pdb
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.AssemblyInfo.cs
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.dll
+C:\Users\computacao.ACAD\source\repos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.pdb
